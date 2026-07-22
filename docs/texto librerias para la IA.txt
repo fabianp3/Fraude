@@ -1,0 +1,13 @@
+#file:proyecto-objetivos.md En base a los objetivos del proyecto ¿Qué librerías debería instalar al menos inicialmente?
+
+
+de momento solo quiero instalar estas librerías, pero usando conda en vez de pip
+
+pandas
+numpy
+matplotlib
+seaborn
+
+Dame el código conda para crear un entorno llamado Fraude e
+e instala estas librerías mas ipykernel y las necesarias para usar 
+notebooks en VSD.
