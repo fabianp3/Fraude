@@ -24,7 +24,11 @@ datos/
 *.duckdb
 
 # Entregables
-entregables/
+entregables/dashboards/
+entregables/graficos/
+!entregables/
+!entregables/informes/
+!entregables/informes/*.md
 reports/
 
 # Archivos de log
